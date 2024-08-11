@@ -12,6 +12,9 @@ Analyzes real estate offices using Graph Theory. Implements metrics like radius,
 ## Results
 
 Here is the result of the analysis
+![Results](Results.png)
+
+
 ## Installation
 1. Clone the repository:
    ```bash
