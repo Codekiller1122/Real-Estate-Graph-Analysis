@@ -9,7 +9,9 @@ Analyzes real estate offices using Graph Theory. Implements metrics like radius,
 - **Graph Metrics:** Calculate radius, diameter, eccentricity, center, and periphery.
 - **Density Analysis:** Assess graph density to understand connectivity.
 - **Relationship Insights:** Analyze connections between real estate offices and facilities.
-![Graph Visualization](results.png)
+## Results
+
+Here is the result of the analysis
 ## Installation
 1. Clone the repository:
    ```bash
